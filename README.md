@@ -353,4 +353,36 @@ Ron: 智能合约开发专家， 拥有 10+ 年的开发经验，5 年的 web3 �
 如果大家感兴趣，请点击报名：
 https://docs.google.com/forms/d/e/1FAIpQLSeyuqz0TCig8zHm45tNRt_lo6faxHqNDYVmKEC9DKjX5AXkoQ/viewform
 
+## 8. 模块课程大纲
+
+### 1.[The Web3 公链开发教程大纲](https://github.com/the-web3/course-outline/blob/main/chain/README.md)
+### 2.[The Web3 区块链钱包教程大纲](https://github.com/the-web3/course-outline/blob/main/wallet/README.md)
+### 3.[The Web3 智能合约开发教程大纲](https://github.com/the-web3/course-outline/blob/main/contracts/README.md)
+### 4.[The Web3 区块链就业指导教程大纲](https://github.com/the-web3/course-outline/blob/main/career-guidance/README.md)
+
+## 9.联合举办社区
+
+- 登链社区
+- OpenBuild
+- MoleDao
+- GCC
+- 捕鲸船社区
+- LXDAO
+- TinTin 中文社区
+- 1783DAO
+- Web3Club
+- Planker
+
+  
+## 10.联合举办高校链协
+
+- 东北大学区块链协议
+- 成都信息工程大学区块链协会
+- 青岛大学区块链协议
+- 深圳大学区块链协议
+- 南通大学区块链协会
+- 吉林高校区块链联盟
+
+
+
 
