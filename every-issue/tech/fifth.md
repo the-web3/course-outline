@@ -1,5 +1,7 @@
 # The Web3 社区第五期区块链技术培训课程正式开启--助力开发者高效转行 Web3, 掌握核心区块链技术, 直通行业前沿！
 
+[![Dapplink](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/techfif.jpg)](https://github.com/the-web3)
+
 
 Web3 赛道迎来变革，钱包、链上应用和应用链成为新趋势
 
@@ -47,11 +49,15 @@ Web3 全面型技术人才仍然稀缺，全面型开发者竞争力大幅提升
 - 公链开发教程
 - BTCFI 教程
 - 区块链就业指导教程
-[图片]
-[图片]
+[![Dapplink](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/output.png)](https://github.com/the-web3)
+
+[![Dapplink](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/0c1cb42d-b45d-406d-b926-b5fd37a24613.png)](https://github.com/the-web3)
+
 注意：AI-Agent, RWA,  PayFI 教程并不体现在该大纲中，学员入学之后我们会介绍这几个赛道的课程内容
+
 ## 四. 线下空间环境
-[图片]
+[![Dapplink](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/1212.png)](https://github.com/the-web3)
+
 
 ## 五.学习方式与费用
 - 学习方式：线上加线下，两者享受的服务是一样的。
