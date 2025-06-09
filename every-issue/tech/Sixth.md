@@ -1,4 +1,9 @@
 
+# The Web3 社区第六期区块链技术培训课程开始招生啦---系统提升 Web3 开发能力,掌握区块链核心技术!
+
+[![Dapplink](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/techSixth.png)](https://github.com/the-web3)
+
+
 ## Web3 钱包成为市场新导向，人才需求激增
 钱包作为 Web3 核心入口，正向简单易用、智能化方向发展。RWA（现实资产上链）和 PayFI（支付金融）等热门赛道依赖钱包技术，推动企业对钱包开发人才需求激增。同时，MPC 托管钱包、AA 钱包等创新技术落地，使钱包开发成为 Web3 最具前景的技术领域之一。
 
@@ -208,8 +213,12 @@ AI 正快速渗透 Web3, AI Agent 已成为交互创新的重要趋势；钱包�
 - 就业前指导
 - 就业后协助服务
 
+[![Dapplink](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/Course-Outline-6th-1.jpg)](https://github.com/the-web3)
+
+[![Dapplink](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/Course-Outline-6th-2.jpg)](https://github.com/the-web3)
+
 ## 四. 线下空间环境
-Image
+[![Dapplink](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/1212.png)](https://github.com/the-web3)
 
 ## 五. 学习方式与费用
 - **学习方式**：线上加线下，两者享受的服务是一样的。
@@ -235,6 +244,7 @@ Image
 - Telegram: @shijiangguo
 - 请添加微信： TheWeb3Dao
 
+[![Dapplink](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/Wechat.webp)](https://github.com/the-web3)  
 
 （扫描添加微信）
 
